@@ -7,5 +7,5 @@ https://powerpoint.cloud.microsoft/open/onedrive/?docId=69140FDBEF626EF0%21s722b
 # Atividade ultilizando  excel
 ## dados abertos,Procv,Grafico
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQAixyiqAWmxRK7U48091iA1AYmS-fca6nYLkEBOAn8zhvM?e=YFKviN
-## GRAFICO DINAMICO
+## Grafico dinâmico no excel
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQA6JECYPhD7RJwhQL0ZCARBAWXt9PM2TN7Zg3GPc5NRwOc
