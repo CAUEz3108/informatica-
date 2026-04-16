@@ -29,6 +29,7 @@ https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao
 
 ## Realização da atividade proposta. 
 Elaboração  de 5 questões ultilizando os dados abertos do estado de são paulo.
+<img width="5616" height="2612" alt="Screenshot_20260416_161844_Excel" src="https://github.com/user-attachments/assets/c251758f-a5c4-4db2-b1ff-9382a80a1896" />
 
 
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQCAvaglwI2VQJaSk5lTxPxyAezRi08astef5v8QXbJgWRk?e=za1tu2
