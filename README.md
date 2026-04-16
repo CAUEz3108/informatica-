@@ -6,6 +6,8 @@ Trabalho em equipe  executado ultilizando power point
 https://powerpoint.cloud.microsoft/open/onedrive/?docId=69140FDBEF626EF0%21s722b89aade014d768f33e4906523335b&driveId=69140FDBEF626EF0
 # Atividade ultilizando  excel
 ## dados abertos,Procv,Grafico
+<img width="3908" height="2361" alt="Screenshot_20260416_110104_Excel" src="https://github.com/user-attachments/assets/08394144-2ea6-42c0-ae98-35f59580eabd" />
+
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQAixyiqAWmxRK7U48091iA1AYmS-fca6nYLkEBOAn8zhvM?e=YFKviN
 ## Grafico dinâmico no excel
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQA6JECYPhD7RJwhQL0ZCARBAWXt9PM2TN7Zg3GPc5NRwOc
