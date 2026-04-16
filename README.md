@@ -17,6 +17,8 @@ https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao
 
 ## Atividade proposta realizada em dupla.
 Dados abertos prefeitura de são jose dos campos, ultilizando as funções SOMASE e CONTSE e criação de um grafico dinâmico.
+<img width="4022" height="2068" alt="Screenshot_20260416_111431_Excel" src="https://github.com/user-attachments/assets/c0054fd1-2e3a-4bd0-ac94-5b0bc35d4c0e" />
+
 https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao_sp_gov_br/IQBJrn5qUOuJTa2_CEdA-hMyAWJMOZFGcYDe99pSeRuDebA?e=GQFefu
 
 ## Dados abertos do estado de São Paulo (Multas pagas) -
