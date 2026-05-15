@@ -58,3 +58,10 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 
 
+## Atividade realizada no EXCEL
+<img width="966" height="616" alt="Captura de tela 2026-05-14 221624" src="https://github.com/user-attachments/assets/e5e1f1c8-8d76-41ab-a447-ec57c1a4f6a5" />
+
+[Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783096/Ice.Cream.Sales.and.Temperature.xlsx)
+
+
+
