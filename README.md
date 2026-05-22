@@ -65,3 +65,10 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 
 
+## DASHBORD POWER BI (ICE CREAM/CERVEJA)
+
+<img width="1320" height="758" alt="Captura de tela 2026-05-22 194343" src="https://github.com/user-attachments/assets/702e7f40-9a4b-412b-a932-393ab3a6dcd4" />
+
+
+
+
