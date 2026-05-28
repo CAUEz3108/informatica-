@@ -63,6 +63,11 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 [Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783096/Ice.Cream.Sales.and.Temperature.xlsx)
 
+## Regreção linear simples ( red wine quality ) 
+Atividade realizada ultilizando Excel e Python(Colab)
+
+<img width="1600" height="782" alt="IMG-20260522-WA0035" src="https://github.com/user-attachments/assets/dd0f27b5-76f4-4e54-8219-b59c16ad98f0" />
+
 
 
 ## DASHBORD POWER BI (ICE CREAM/CERVEJA)
