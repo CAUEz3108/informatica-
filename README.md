@@ -44,6 +44,13 @@ curso de introdução á análise de dados da Microsoft. (Escola do trabalhador 
 
 <img width="1200" height="823" alt="Screenshot_20260423_105502_Samsung Notes" src="https://github.com/user-attachments/assets/1832fe25-b7ce-4ea9-9516-1db9295ab78f" />
 
+
+## Tratamento de dados no Power Bi 
+
+Tratamentos de dados abertos sp
+trabalho,emprego formal,municipios do estado de são Paulo utilizando o código =CONCATENATE([município]," SP, Brasil")
+
+
 ## Atividade no power Bi.
 Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
@@ -52,9 +59,10 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 ## Questões para analise.
 
-1) Qual ano e mês o saldo de movimento foi menor ?
+1) Qual ano e mês o saldo de movimento foi menor ? O ano foi 2020 eo mês foi fevereiro.
 
-2) Qual sexo possui maior saldo de movimentação em cada ano?
+2) Qual sexo possui maior saldo de movimentação em cada ano? Nessa base de dados não possui identificação de sexo.
+
 
 
 
