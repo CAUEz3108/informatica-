@@ -50,6 +50,9 @@ curso de introdução á análise de dados da Microsoft. (Escola do trabalhador 
 Tratamentos de dados abertos sp
 trabalho,emprego formal,municipios do estado de são Paulo utilizando o código =CONCATENATE([município]," SP, Brasil")
 
+<img width="1860" height="2556" alt="Screenshot_20260529_100642_Samsung Browser" src="https://github.com/user-attachments/assets/1c2d8319-5c3f-4156-a5e8-6569215923f2" />
+
+
 
 ## Atividade no power Bi.
 Atividade realizada ultilizando os dados abertos do estado de são paulo.
@@ -67,6 +70,9 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 
 ## Atividade realizada no EXCEL
+
+Atividade sobre regreção linear simples no excel.Ultilizando dados do ice cram sales and temperature.
+
 <img width="966" height="616" alt="Captura de tela 2026-05-14 221624" src="https://github.com/user-attachments/assets/e5e1f1c8-8d76-41ab-a447-ec57c1a4f6a5" />
 
 [Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783096/Ice.Cream.Sales.and.Temperature.xlsx)
@@ -79,6 +85,8 @@ Atividade realizada ultilizando Excel e Python(Colab)
 
 
 ## DASHBORD POWER BI (ICE CREAM/CERVEJA)
+
+Criacão de um dashbord ultilizando o power bi.Através dos dados de ice cream e cerveja.
 
 <img width="1320" height="758" alt="Captura de tela 2026-05-22 194343" src="https://github.com/user-attachments/assets/702e7f40-9a4b-412b-a932-393ab3a6dcd4" />
 
