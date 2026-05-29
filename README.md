@@ -77,3 +77,17 @@ Atividade realizada ultilizando Excel e Python(Colab)
 
 
 
+
+
+ Arquivos prova 
+
+<img width="1436" height="812" alt="Captura de tela 2026-05-28 225452" src="https://github.com/user-attachments/assets/560db4f0-4dbd-4f3d-af70-e38ec8d1e227" />
+Excel
+
+[Mes nuplicidadae.xlsx](https://github.com/user-attachments/files/28373442/Mes.nuplicidadae.xlsx)
+[Ano nuplicidadade 2.xlsx](https://github.com/user-attachments/files/28373433/Ano.nuplicidadade.2.xlsx)
+
+
+[nupcialidade.xlsx](https://github.com/user-attachments/files/28373512/nupcialidade.xlsx)
+
+https://github.com/user-attachments/assets/7a4aca7f-248e-4b41-aec9-2231aba1d031
