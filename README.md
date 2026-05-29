@@ -76,18 +76,27 @@ Atividade realizada ultilizando Excel e Python(Colab)
 
 
 
+## Arquivos ultilizados no desenvolvimento da prova.
 
-
-
- Arquivos prova 
+Imagem do dashboard realizado (nuplicidade)
 
 <img width="1436" height="812" alt="Captura de tela 2026-05-28 225452" src="https://github.com/user-attachments/assets/560db4f0-4dbd-4f3d-af70-e38ec8d1e227" />
-Excel
-
-[Mes nuplicidadae.xlsx](https://github.com/user-attachments/files/28373442/Mes.nuplicidadae.xlsx)
-[Ano nuplicidadade 2.xlsx](https://github.com/user-attachments/files/28373433/Ano.nuplicidadade.2.xlsx)
 
 
-[nupcialidade.xlsx](https://github.com/user-attachments/files/28373512/nupcialidade.xlsx)
+Video do dashboard interativo criado durante a prova.
 
 https://github.com/user-attachments/assets/7a4aca7f-248e-4b41-aec9-2231aba1d031
+
+
+Base de dados ultilizados para criação do dashboard.
+
+
+Tabela(Mes)
+[Mes nuplicidadae.xlsx](https://github.com/user-attachments/files/28373442/Mes.nuplicidadae.xlsx)
+
+Tabela ( Ano)
+[Ano nuplicidadade 2.xlsx](https://github.com/user-attachments/files/28373433/Ano.nuplicidadade.2.xlsx)
+
+Tabela(principal)
+[nupcialidade.xlsx](https://github.com/user-attachments/files/28373512/nupcialidade.xlsx)
+
