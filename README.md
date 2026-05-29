@@ -69,15 +69,15 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 
 
-## Introdução a regreção linear no Excel
+## Introdução a regressão linear no Excel
 
-Atividade sobre regreção linear simples no excel.Ultilizando dados do ice cram sales and temperature.
+Atividade sobre regressão linear simples no excel.Ultilizando dados do ice cram sales and temperature.
 
 <img width="966" height="616" alt="Captura de tela 2026-05-14 221624" src="https://github.com/user-attachments/assets/e5e1f1c8-8d76-41ab-a447-ec57c1a4f6a5" />
 
 [Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783096/Ice.Cream.Sales.and.Temperature.xlsx)
 
-## Regreção linear simples ( red wine quality ) 
+## Regressão linear simples ( red wine quality ) 
 Atividade realizada ultilizando Excel e Python(Colab)
 
 <img width="1600" height="782" alt="IMG-20260522-WA0035" src="https://github.com/user-attachments/assets/dd0f27b5-76f4-4e54-8219-b59c16ad98f0" />
