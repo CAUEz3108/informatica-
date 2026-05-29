@@ -39,10 +39,21 @@ https://seducsp-my.sharepoint.com/:x:/g/personal/00001122048531sp_aluno_educacao
 Curso de introdução à programação e à linguagem Python, dados e operadores, variáveis e interação com o usuário e estruturas condicionais. 
 <img width="1762" height="1080" alt="Screenshot_20260417_190342_Drive" src="https://github.com/user-attachments/assets/6139c875-d15f-42ae-8e12-6830c9660343" />
 
+
+
+
+
 ## Certificado de conclusão de curso.
 curso de introdução á análise de dados da Microsoft. (Escola do trabalhador 4.0)
 
 <img width="1200" height="823" alt="Screenshot_20260423_105502_Samsung Notes" src="https://github.com/user-attachments/assets/1832fe25-b7ce-4ea9-9516-1db9295ab78f" />
+
+## Introdução ao Power Bi
+Dashboard interativo ultilizando os dados abertos de são paulo.
+
+<img width="1332" height="753" alt="Captura de tela 2026-05-29 183855" src="https://github.com/user-attachments/assets/1e91cb74-db81-4444-9ec9-b40749f16783" />
+
+
 
 
 ## Tratamento de dados no Power Bi 
