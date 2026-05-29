@@ -69,7 +69,7 @@ Atividade realizada ultilizando os dados abertos do estado de são paulo.
 
 
 
-## Atividade realizada no EXCEL
+## Introdução a regreção linear no Excel
 
 Atividade sobre regreção linear simples no excel.Ultilizando dados do ice cram sales and temperature.
 
